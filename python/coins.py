@@ -8,5 +8,6 @@ for i in range(t):
     elif(a%10!=0 and a%5==0):
         c=(a//10)+1
         print(c)
+        
     else:
         print("-1")
