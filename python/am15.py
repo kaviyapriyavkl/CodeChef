@@ -13,3 +13,4 @@ if(even>odd):
         print("READY FOR BATTLE")
 else:
         print("NOT READY")
+        
