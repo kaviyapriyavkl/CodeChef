@@ -10,3 +10,4 @@ for i in range(t):
         print("CHICKEN")
     else:
         print("NONE")
+        
