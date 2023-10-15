@@ -10,4 +10,3 @@ for i in range(t):
         print("SECOND")
     else:
         print("FIRST")
-    
