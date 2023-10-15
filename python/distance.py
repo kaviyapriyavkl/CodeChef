@@ -11,3 +11,4 @@ for i in range(t):
         print("ALEX")
     else:
         print("BOB")
+        
