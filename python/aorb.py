@@ -7,3 +7,4 @@ for i in range(t):
     print(max(t1,t2))
     # print(500-(a*2))
     # print(1000-(a*4))
+    
