@@ -8,4 +8,3 @@ for i in range(t):
         print(tot*r)
     else:
         print(w*r)
-    
