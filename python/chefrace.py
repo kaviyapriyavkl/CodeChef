@@ -7,7 +7,6 @@ for i in range(t):
         print(0)
     elif((a==c or a==d) or (b==c or b==d)):
         print(1)
-
     else:
         print(2)
     
