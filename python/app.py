@@ -1,6 +1,5 @@
 # cook your dish here
 t=int(input())
-
 for i in range(t):
     s,x,y,z=map(int,input().split())
     if(x+y+z)<=s:
