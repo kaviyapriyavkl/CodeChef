@@ -8,7 +8,6 @@ for i in a:
             even+=1
         else:
             odd+=1
-    
 if(even>odd):
         print("READY FOR BATTLE")
 else:
