@@ -7,3 +7,4 @@ for i in range(int(input())):
         print("PROFIT")
     else:
         print("NEUTRAL")
+        

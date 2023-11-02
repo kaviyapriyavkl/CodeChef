@@ -1,5 +1,6 @@
 # cook your dish here
 t=int(input())
+
 for i in range(t):
     a,b=map(int,input().split())
     t1=(500-(a*2))+(1000-((b+a)*4))
