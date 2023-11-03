@@ -13,7 +13,3 @@ for i in range(t):
         c+=1
     if(c==len(lst)):
         print("")
-        
-      
-        
-       
