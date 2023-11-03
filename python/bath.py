@@ -4,3 +4,4 @@ for i in range(t):
     w,b=map(int,input().split())
     r=2*b
     print(w//r)
+    
