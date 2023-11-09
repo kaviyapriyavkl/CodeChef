@@ -1,4 +1,5 @@
 # cook your dish here
+
 t=int(input())
 for i in range(t):
     h,x,y=map(int,input().split())
