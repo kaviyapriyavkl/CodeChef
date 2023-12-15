@@ -5,3 +5,4 @@ for _ in range(int(input())):
         print(r)
     else:
         print("-1")
+        
